@@ -1,0 +1,348 @@
+{
+  "Header": {
+    "title": "LEARNBOOST",
+    "paragraph": "AN APPLICATION FOR INSTITUTES TO ENHANCE THE ACADEMIC PERFORMANCE OF STUDENTS THROUGH THE USE OF MACHINE LEARNING TECHNIQUES"
+  },
+  "About": {
+    "paragraph": "This comprehensive research paper seeks to enhance the educational journey of university students in Sri Lanka through a multifaceted approach. It introduces the Student Learning Booster System, leveraging algorithms to offer personalized recommendations for academic improvement based on individual student data. Additionally, a Chatbot system addresses mental health issues by providing early detection and tailored support. The paper also addresses research project enhancement with dashboards, NLP-driven research area identification, and abstract summarization. It acknowledges the challenges of online education and proposes innovative solutions for student-lecturer interaction. Lastly, the paper advocates for transforming handwritten notes into digital text documents to improve information organization and accessibility. The ultimate goal is to empower students for academic success and personal growth in various domains.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Subasinghe M. P.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EUJQT4O8hEBMnJmqN7lF-14BD6Iuibx9m66Hjvw_f4Ri6g?e=JT39ye"
+    },
+    {
+      "title": "Dissanayake D. M. M. A.",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EetYbPX8B0tMgROV_bHLOOYBjluchEHAS75LRwBOB8N2hg?e=9QM4LA"
+    },
+    {
+      "title": "Thiwanka W. K. C.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EX9zayws_kdHvd1ESVedWSsBnTslaZJpLVR1qhEA2amTng?e=NKx03Q"
+    },
+    {
+      "title": "Wijewardane A. M. B.",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EWlf3vqDgzVEoTp5UShdhtUBbCjFGsbWBLNC_DtVMmeoeQ?e=limpOY"
+    }
+  ],
+  "Gallery2": [
+    {
+      "title": "Subasinghe M. P.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/Ee-pObpCj11MoRrJ2KQGNhABmz94TD-07Vdydzr8JGflfw?e=vHXvBz"
+    },
+    {
+      "title": "Dissanayake D. M. M. A.",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/ETOItVaWPTRFjkPZpo_I5QUBK-TCncph43faXV6HrURV3Q?e=q64Ekq"
+    },
+    {
+      "title": "Thiwanka W. K. C.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EZBbpIaZf7VIsvu-91ZmSsQBpi8iHg4-5jUU0In-Wf6Uow?e=1Jbs1f"
+    },
+    {
+      "title": "Wijewardane A. M. B.",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/ES2_jEgAo_tLnsvurxORS3sB7iUUuYvO9Bur3V1_35AnZg?e=iarTjj"
+    }
+  ],
+  "ProgressPresOne": [
+    {
+      "title": "Progress Presentation 01",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EcgEi_dKMzdDgJ-ZbG8bnhoBmUExMWioZnGWCbMgWhnuvg?e=thJ1ru"
+    }
+  ],
+  "ResearchPaper": [
+    {
+      "title": "Academic Performence Enhancement",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EcJRkTUo1VpGvNQiCcmSdaQBVd7Ji-SQIdV-bvKopwe-Jw?e=SyFexN"
+    },
+    {
+      "title": "Research Project Help",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EU3sa0bELatAsLAkz8whUFYBMpFcapO_MGIY_dMVpfJxNA?e=WthjQL"
+    },
+    {
+      "title": "Student, Lecturer Interaction Enancement",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EV7y29q7bb9OiKnWKChHQXcBOasq5czOckp17hHKXXDyIQ?e=cuXz6E"
+    },
+    {
+      "title": "Handwritten Lecture Note Conversion",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EYB-WhaifOVNl6UVfCDdpjoBD2R1-jvL_kpsTKgcw3GUMw?e=Lc3GO5"
+    },
+    {
+      "title": "Learnboost",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/ERqW5YtSnvJJks_dg6ExKGIBvLHZ5bWQwqmzEGuOMu7CHA?e=GpIHY1"
+    }
+  ],
+  "ProgressPresTwo": [
+    {
+      "title": "Progress Presentation 02",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/EYnYyaiVQCNGi5ZeKgjrK1IBMAg8pTyxsXZZxB0AT5IbOA?e=eh2IGA"
+    }
+  ],
+  "StatusDocTwo": [
+    {
+      "title": "Subasinghe M. P.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EfVnVMNtoG5Onc4M6hHveR8BI51JU5GM3WQ9pN8zhMHdaA?e=3anwQ5"
+    },
+    {
+      "title": "Dissanayake D. M. M. A.",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EVUyhLXSyv5Ck3bCSi8kI6EBFeTugA-Xjmgb8b_Xz8V4Xw?e=LZbzfK"
+    },
+    {
+      "title": "Thiwanka W. K. C.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/ETxdKGxz0R5Dli-i4WK6S88BoZW5EkvD1ljY2n7hKz4wbg?e=6U3ffl"
+    },
+    {
+      "title": "Wijewardane A. M. B.",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EeH8dZiZl_1LrkFg8E285mUBRjUfm_ZaVv5XpSb7rPAfQQ?e=c3TeD4"
+    }
+  ],
+  "FinalReps": [
+    {
+      "title": "Subasinghe M. P.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:w:/s/CDAPSubmissionCloud/EUJ6cmFWec1MgJQbZPuQtRQBSemIYY23zvEMte006Q6UMg?e=S7MAe3"
+    },
+    {
+      "title": "Dissanayake D. M. M. A.",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:w:/s/CDAPSubmissionCloud/EUEIHC_VMj5MpbOkwMlfxKEB3RByoxoK7Up9NMmUnZCEfg?e=PmuP30"
+    },
+    {
+      "title": "Thiwanka W. K. C.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:w:/s/CDAPSubmissionCloud/EUEMmNLQilFEiptPAv7b0_sBNXV1MdFku9SwrSbfFh1AnA?e=hrSJn4"
+    },
+    {
+      "title": "Wijewardane A. M. B.",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:w:/s/CDAPSubmissionCloud/EQRgPCPJEZZAnAe-SfYHBGcB7gUnKJAt7fUY_qSB73G_0Q?e=WRt8eY"
+    },
+    {
+      "title": "Main Report",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://mysliit.sharepoint.com/:w:/s/CDAPSubmissionCloud/EWMH1q7uan9Nrn1aNnyz794BLR_DjmveAuVc0BH6z9Q5Jg?e=C2iX5T"
+    }
+  ],
+  "ProjectRegistration": [
+    {
+      "title": "Topic Assesment Form",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://drive.google.com/file/d/17tl_5xZxQxCGduQydQAfn8qRcV_AWtMs/view?usp=sharing"
+    },
+    {
+      "title": "Project Charter",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://drive.google.com/file/d/11vRSBqWnadpJRHGF1fgSYArWxxeZH0_n/view?usp=sharing"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-bell-o",
+      "name": "Course Recommendation System",
+      "text": " Disaster Warning Alert System that will provide timely and formal SMS alerts and notifications for a range of natural disasters, including floods, landslides, thunderstorms, and strong winds"
+    },
+    {
+      "icon": "fa fa-phone",
+      "name": "Education Chatbot",
+      "text": "Its primary functions is to send SMS notifications to these authorities to request assistance and updates, particularly in the context of launching an evacuation project."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "name": "Research Information Dashboard",
+      "text": "Students receive a dashboard Learnboost offering easy access to past research details like project names, areas, groups, publications, and competitions, enhancing their ability to find valuable research information."
+    },
+    {
+      "icon": "fa fa-street-view",
+      "name": "Research Area Prediction System",
+      "text": "Learnboost addresses students' research area challenges by employing a TFDistilBertForSequenceClassification model, enhancing accuracy and prediction capabilities for research topics using NLP Transformers and a dataset of 400 records."
+    },
+    {
+      "icon": "fa fa-camera",
+      "name": "Research Paper Recommendation System",
+      "text": "Students benefit from a recommendation system that employs a Universal Sentence Encoder model to suggest research papers based on their chosen research area, utilizing machine learning and a dataset of 400 records. "
+    },
+    {
+      "icon": "fa fa-comment",
+      "name": "Research Information Summarization System",
+      "text": "Learnboost simplifies research paper abstracts for student comprehension using the Pegasus model, derived from DistilBERT. This aids students in understanding research papers, improving efficiency and comprehension, regardless of their technical background. "
+    },
+
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Free Food Resources Map for Disaster Survivors",
+      "text": "Helps individuals locate available food resources crucial for their survival in the aftermath of a disaster."
+    },
+    {
+      "icon": "fa fa-medkit",
+      "name": "Customizable Survival Emergency Kit Checklist",
+      "text": "Tailoring emergency kits according to the type of disaster and user's unique background information"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": " Simplified Carbon Footprint Calculator",
+      "text": "This user-friendly tool is designed to empower individuals to easily calculate their carbon emissions in three key areas: food, transportation, and electricity usage with practical tips on reducing one's carbon footprint."
+    },
+
+    {
+      "icon": "fa fa-newspaper-o",
+      "name": "Climate News Platform",
+      "text": "Serves as a comprehensive and reliable source for individuals to access the latest climate news and updates from around the world."
+    },
+
+    {
+      "icon": "fa fa-quote-right",
+      "name": "Blog Publishing Platform",
+      "text": "Facilitates bloggers and writers who are passionate about sharing insightful information and analysis about climate change, its far-reaching impacts, and disaster preparedness and mitigation"
+    },
+    {
+      "icon": "fa fa-gift",
+      "name": " Disaster and Climate Change Relief Project Management Tool",
+      "text": "Facilitates the initiation, coordination, and management of humanitarian projects initiated by volunteer organizations to address the needs of communities impacted by natural disasters and climate-related challenges."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/python01.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "PYTHON",
+      "link": "https://www.python.org/"
+    },
+    {
+      "img": "img/testimonials/flask_logo.webp",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "FLASK",
+      "link": "https://flask.palletsprojects.com/en/3.0.x/"
+    },
+    {
+      "img": "img/testimonials/tf_logo.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "TENSORFLOW",
+      "link": "https://www.tensorflow.org/"
+    },
+    {
+      "img": "img/testimonials/mongo01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "MONGO DB",
+      "link": "https://www.mongodb.com/docs/"
+    },
+    {
+      "img": "img/testimonials/trf_logo.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "TRANSFORMERS",
+      "link": "https://huggingface.co/learn/nlp-course/chapter1/4"
+    },
+    {
+      "img": "img/testimonials/colab.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Google Colaboratory",
+      "link": "https://colab.research.google.com/"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/samadhisir.jpg",
+      "name": "Mr. Samadhi Rathnayake​",
+      "job": "Supervisor"
+    },
+    {
+      "img": "img/team/wishalyamiss.jpg",
+      "name": "Ms. Wishalya Tissera​",
+      "job": "Co-supervisor"
+    },
+    {
+      "img": "img/team/mal.jpg",
+      "name": "Subasinghe M.P.​",
+      "job": "Leader"
+    },
+    {
+      "img": "img/team/cham.jpg",
+      "name": "Thiwanka W.K.C.​",
+      "job": "Team member"
+    },
+    {
+      "img": "img/team/ady.jpg",
+      "name": "Dissanayake D.M.M.A.",
+      "job": "Team member"
+    },
+    {
+      "img": "img/team/akl.jpg",
+      "name": "Wijewardane A.M.B​.",
+      "job": "Team member"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-question",
+      "title": "Research Question",
+      "text": "LearnBoost is an innovative educational platform designed to address gaps in Sri Lanka's education sector. It offers a hybrid recommendation model to suggest personalized learning materials and specialization selection guidance, utilizing historical data. The platform simplifies research project selection by providing insights and access to research papers. LearnBoost enhances online education by efficiently tracking attendance and feedback in online lectures. It also simplifies note-taking and promotes peer cooperation by facilitating the sharing of handwritten notes and relevant lecture materials. This holistic approach aims to improve academic success and overall well-being in Sri Lanka's education system."
+    },
+    {
+      "icon": "fa fa-search",
+      "title": "Research Objective",
+      "text": "This research paper outlines a multifaceted approach to enhance the university student experience in Sri Lanka. It introduces personalized academic support, mental health assistance, research project improvements, innovative solutions for online learning, and digital note-taking. The overarching goal is to empower students for academic success and personal growth in various domains."
+    }
+  ]
+}
